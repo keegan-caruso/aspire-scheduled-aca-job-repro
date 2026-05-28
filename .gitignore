@@ -1,0 +1,6 @@
+bin/
+obj/
+aspire-output/
+.artifacts/
+.vs/
+*.user
